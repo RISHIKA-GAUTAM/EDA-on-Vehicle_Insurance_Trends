@@ -54,6 +54,6 @@ We welcome contributions! If you'd like to enhance the project:
 ## 📝 Feedback
 
 Have feedback or suggestions? Open an issue in the repository or reach out directly at 
-grishika840@gmail.com
-www.linkedin.com/in/rishika-gautam-r840.
+1. mail: grishika840@gmail.com
+2. linkedin: www.linkedin.com/in/rishika-gautam-r840.
 ---
