@@ -1,4 +1,5 @@
 # 🚗 Vehicle Insurance Analysis Project
+## ![image](https://4.imimg.com/data4/KJ/AG/ANDROID-7725170/product-500x500.jpeg)
 
 Welcome to the **Vehicle Insurance Analysis Project**! This initiative is designed to simplify and analyze vehicle insurance data with clarity and precision. Dive into the project to explore meaningful patterns and actionable insights.
 
@@ -52,5 +53,7 @@ We welcome contributions! If you'd like to enhance the project:
 
 ## 📝 Feedback
 
-Have feedback or suggestions? Open an issue in the repository or reach out directly at [your-email@example.com].
+Have feedback or suggestions? Open an issue in the repository or reach out directly at 
+grishika840@gmail.com
+www.linkedin.com/in/rishika-gautam-r840.
 ---
